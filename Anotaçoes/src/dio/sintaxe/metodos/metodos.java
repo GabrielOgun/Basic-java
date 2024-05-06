@@ -2,7 +2,7 @@ package dio.sintaxe.metodos;
 
 public class metodos {
 
-    public static void main (String[] args){
+    
         /*criterios de criaçao de metodos (boas praticas):
         nomeado como verbo 
         seguir o padrao camelCase primeira em minusculo segunda em maisculo
@@ -15,6 +15,6 @@ public class metodos {
 
         
 
-    }
+    
     
 }
