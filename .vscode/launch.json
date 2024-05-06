@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Scan",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.Scanner.Scan",
+            "projectName": "Basic-java_f7dc518c"
+        },
+        {
+            "type": "java",
+            "name": "Scanner",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.Scanner.Scanner",
+            "projectName": "Basic-java_f7dc518c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.Operadores.Operadores",
+            "projectName": "Basic-java_f7dc518c"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaDasClasses",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.classes.AnatomiaDasClasses",
+            "projectName": "Basic-java_f7dc518c"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.metodos.Usuario",
+            "projectName": "Basic-java_f7dc518c"
+        },
+        {
+            "type": "java",
+            "name": "TiposDeVariaveis",
+            "request": "launch",
+            "mainClass": "dio.sintaxe.variaveis.TiposDeVariaveis",
+            "projectName": "Basic-java_f7dc518c"
+        }
+    ]
+}
